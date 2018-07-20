@@ -515,14 +515,14 @@
     [
         "C:\\Users\\vinicius.alves\\Documents\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\vinicius.alves\\Documents\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 542,
             "modifiedTime": 1532114202381,
             "changeTime": 1532114202381,
-            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7"
         }
     ],
     [
@@ -580,14 +580,14 @@
     [
         "C:\\Users\\vinicius.alves\\Documents\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\vinicius.alves\\Documents\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 395,
             "modifiedTime": 1532114218568,
             "changeTime": 1532114218568,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
         }
     ],
     [
@@ -970,14 +970,14 @@
     [
         "C:\\Users\\vinicius.alves\\Documents\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\vinicius.alves\\Documents\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 333,
             "modifiedTime": 1532114306780,
             "changeTime": 1532114306780,
-            "contentHash": "176bf57e7ee6767658be034964e900ff44073933",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "176bf57e7ee6767658be034964e900ff44073933"
         }
     ],
     [
@@ -1035,14 +1035,14 @@
     [
         "C:\\Users\\vinicius.alves\\Documents\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\vinicius.alves\\Documents\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
+            "size": 782,
+            "modifiedTime": 1532113809649,
+            "changeTime": 1532113809649,
+            "contentHash": "48df8ac7d757651f5457e53e0c8853aaf8a58477",
             "isMetadataFile": false,
-            "size": 794,
-            "modifiedTime": 1532114411300,
-            "changeTime": 1532114411300,
-            "contentHash": "2f8153e8885eaa1e4defa101080e4921b905975c"
+            "state": "u"
         }
     ],
     [
