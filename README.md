@@ -1,14 +1,3 @@
 # SFDX  App
 
-## Dev, Build and Test
-
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
-
-
+Projeto exemplo de localização geográfica utilizando Salesforce DX
